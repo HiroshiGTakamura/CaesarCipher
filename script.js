@@ -19,7 +19,7 @@ function check() {
         outputText.push("e");
         break;
       case "d":
-        outputText.push("e");
+        outputText.push("f");
         break;
       case "e":
         outputText.push("g");
