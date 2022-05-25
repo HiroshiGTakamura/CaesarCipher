@@ -175,4 +175,4 @@ function check() {
     }
   }
   outputArea.value = outputText.join("");
-}//
+}
