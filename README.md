@@ -18,3 +18,5 @@ A simple web-based tool that encrypts plain text into a Caesar Cipher with a fix
 1. Clone the repository:
    ```bash
    git clone https://github.com/HiroshiGTakamura/CaesarCipher.git
+
+2. Run the file "index.html".
